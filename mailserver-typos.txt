@@ -1,7 +1,9 @@
+** FOR AOL.COM **
 aol.cm
 a0l.com
 aol.co
 
+** FOR GMAIL.COM **
 gmail.cm
 gmail.co
 gmal.com
@@ -10,6 +12,7 @@ gmaill.com
 googlemaile.com
 googlmail.com
 
+** FOR HOTMAIL.COM **
 hotmail.cm
 hotamil
 hoymail
@@ -28,6 +31,7 @@ hatmail
 hotmaiil
 htomail
 
+** FOR YAHOO.COM **
 yahoo.cm
 yahoo.co
 yaho.com
@@ -76,5 +80,6 @@ yhaooo.com
 yhoo.net
 yuhoo.com
 
+** OTHERS **
 netcape.net
 symaptico.ca
